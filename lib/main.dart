@@ -26,19 +26,12 @@ class MyApp extends StatelessWidget {
                     backgroundColor: Colors.white,
                   ),
                   SizedBox(height: 20),
-                  // Nama dan Slogan
-                  Text(
-                    'I Gede Khrisna Paramartha',
-                    style: TextStyle(
-                      fontSize: 28,
-                      fontWeight: FontWeight.bold,
-                      color: Colors.white,
-                    ),
-                  ),
+                  // Slogan
                   Text(
                     '"Saya Bangga Menjadi Bagian Undiknas"',
                     style: TextStyle(
                       fontSize: 18,
+                      fontWeight: FontWeight.bold,
                       color: Colors.grey[400],
                     ),
                   ),
