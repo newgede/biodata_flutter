@@ -38,7 +38,7 @@ class MyApp extends StatelessWidget {
                   SizedBox(height: 20),
                   // Tentang Saya
                   Text(
-                    'Saya adalah seorang mahasiswa angkatan 2022 yang sedang mengeyam pendidikan di Universitas Pendidikan Nasional. Saya suka berpergian baik itu ke kota maupun ke desa, suka makan juga apalagi kalau ngemil jajan adalah favorit saya. Saya suka juga merakit Lego tetapi belum bisa membelinya karena harga mahal sekali. Sekarang saya sedang mempelajari flutter dan baru mengerti beberapa hal mengenai flutter',
+                    'Saya adalah seorang mahasiswa angkatan 2022 yang sedang mengenyam pendidikan di Universitas Pendidikan Nasional. Saya suka berpergian baik itu ke kota maupun ke desa, suka makan juga apalagi kalau ngemil jajan adalah favorit saya. Saya suka juga merakit Lego tetapi belum bisa membelinya karena harga mahal sekali. Sekarang saya sedang mempelajari flutter dan baru mengerti beberapa hal mengenai flutter',
                     textAlign: TextAlign.center,
                     style: TextStyle(color: Colors.white, fontSize: 14),
                   ),
