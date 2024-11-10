@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
                   // Foto Profil
                   CircleAvatar(
                     radius: 60,
-                    backgroundImage: AssetImage('assets/khrisna.jpg'), // Ganti dengan path gambar Anda
+                    backgroundImage: AssetImage('assets/khrisna.jpg'), //Gambar profil
                     backgroundColor: Colors.white,
                   ),
                   SizedBox(height: 20),
@@ -43,7 +43,7 @@ class MyApp extends StatelessWidget {
                     style: TextStyle(color: Colors.white, fontSize: 14),
                   ),
                   SizedBox(height: 20),
-                  // identitas
+                  // Identitas
                   infoCard(
                     title: 'IDENTITAS MAHASISWA',
                     children: [
@@ -55,7 +55,7 @@ class MyApp extends StatelessWidget {
                     ],
                   ),
                   SizedBox(height: 10),
-                  // kontak
+                  // Kontak
                   infoCard(
                     title: 'KONTAK',
                     children: [
