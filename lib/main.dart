@@ -32,7 +32,7 @@ class MyApp extends StatelessWidget {
                     style: TextStyle(
                       fontSize: 18,
                       fontWeight: FontWeight.bold,
-                      color: Colors.grey[400],
+                      color: Colors.lightBlue, 
                     ),
                   ),
                   SizedBox(height: 20),
@@ -75,6 +75,7 @@ class MyApp extends StatelessWidget {
                       Text('4. Membersihkan Lingkungan Tempat Tinggal', style: infoTextStyle),
                       Text('5. Pemrograman Bahasa Python dan Java', style: infoTextStyle),
                       Text('6. Tidur di Kasur yang Empuk', style: infoTextStyle),
+                      Text('7. Bekerja di Area Sawah dan Kebun', style: infoTextStyle),
                   
                     ],
                   ),
